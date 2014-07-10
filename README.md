@@ -2,8 +2,7 @@ PiBot
 ==========================
 Repository for Raspberry Pi 
 
-PiBot is a Linux executable that takes full control of the Raspberry Pi. Use your Pi as a robot and run rampad in the
-streets 
+PiBot is a Linux executable that takes full control of the Raspberry Pi. Use your Pi as a robot and run rampad in the streets 
 ===========================
 Necessary Hardware
 
