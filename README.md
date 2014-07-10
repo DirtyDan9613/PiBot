@@ -13,9 +13,9 @@ Installation
 - Run the command (sudo hciconfig hci0 piscan) in terminal to make your Pi discoverable
 - Run (hciconfig | grep "BD Address") in terminal to print your bluetooth address
 - Navigate to PiBot folder via the terminal and type (./ PiBot) to run PiBot
+- Enter your bluetooth address
 
-
-Special Thank To;
+Special Thank To:
 - The CodeAcademy Team
 - cl.cam.ac.uk
 - The PyBluez Team
