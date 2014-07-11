@@ -11,9 +11,8 @@ PiBot needs four servo motors in order to run properly, a Wiimote for contorl an
 Installation
 - Extract contents to any location
 - Run the command (sudo hciconfig hci0 piscan) in terminal to make your Pi discoverable
-- Run (hciconfig | grep "BD Address") in terminal to print your bluetooth address
 - Navigate to PiBot folder via the terminal and type (./ PiBot) to run PiBot
-- Enter your bluetooth address
+
 
 Special Thank To:
 - The CodeAcademy Team
